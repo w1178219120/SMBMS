@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebRoot/statics/js=UTF-8
+encoding//src/cn/bdqn/smbms/dao/bill/BillMapper.java=UTF-8
+encoding//src/cn/bdqn/smbms/service/billservice/BillService.java=UTF-8
+encoding//src/cn/bdqn/smbms/service/billservice/BillServiceImpl.java=UTF-8
+encoding//src/cn/bdqn/smbms/web/UserController.java=GBK
+encoding//src/test/Billtest.java=UTF-8
